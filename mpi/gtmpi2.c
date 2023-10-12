@@ -3,54 +3,6 @@
 #include <stdio.h>
 #include "gtmpi.h"
 
-// av time in micro 0.003910
-// av time in micro 0.003767
-
-// av time in micro 0.007939
-// av time in micro 0.007343
-// av time in micro 0.007749
-// av time in micro 0.007629
-
-// av time in micro 0.038147
-// av time in micro 0.037527
-// av time in micro 0.038409
-// av time in micro 0.038099
-// av time in micro 0.038314
-// av time in micro 0.037909
-
-// av time in micro 0.031805
-// av time in micro 0.031304
-// av time in micro 0.031257
-// av time in micro 0.031447
-// av time in micro 0.031257
-// av time in micro 0.031495
-// av time in micro 0.031447
-// av time in micro 0.031519
-
-// av time in micro 0.033259
-// av time in micro 0.033855
-// av time in micro 0.033450
-// av time in micro 0.033927
-// av time in micro 0.033450
-// av time in micro 0.033879
-// av time in micro 0.033998
-// av time in micro 0.033665
-// av time in micro 0.033927
-// av time in micro 0.033879
-
-// av time in micro 0.050926
-// av time in micro 0.051212
-// av time in micro 0.051093
-// av time in micro 0.051069
-// av time in micro 0.050759
-// av time in micro 0.051451
-// av time in micro 0.050998
-// av time in micro 0.051188
-// av time in micro 0.051308
-// av time in micro 0.051260
-// av time in micro 0.051188
-// av time in micro 0.050974
-
 unsigned int num_processes_global;
 int my_id;
 

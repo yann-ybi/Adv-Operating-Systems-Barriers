@@ -1,0 +1,24 @@
+// Time taken for 2 threads: 0.000063 seconds
+// Time taken for 4 threads: 0.000072 seconds
+// Time taken for 6 threads: 0.000090 seconds
+// Time taken for 8 threads: 0.000117 seconds
+
+// Time taken for 2 threads: 0.000060 seconds
+// Time taken for 4 threads: 0.000085 seconds
+// Time taken for 6 threads: 0.005265 seconds
+// Time taken for 8 threads: 0.146140 seconds
+
+// Time taken for 2 threads: 0.000059 seconds
+// Time taken for 4 threads: 0.000068 seconds
+// Time taken for 6 threads: 0.005268 seconds
+// Time taken for 8 threads: 0.005295 seconds
+
+// Time taken for 2 threads: 0.000063 seconds
+// Time taken for 4 threads: 0.078740 seconds
+// Time taken for 6 threads: 0.001313 seconds
+// Time taken for 8 threads: 0.000108 seconds
+
+// Time taken for 2 threads: 0.000063 seconds
+// Time taken for 4 threads: 0.005292 seconds
+// Time taken for 6 threads: 0.070849 seconds
+// Time taken for 8 threads: 0.000109 seconds
