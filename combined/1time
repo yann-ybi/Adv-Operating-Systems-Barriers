@@ -1,0 +1,120 @@
+
+Time taken for 2 MPI processes and 2 OpenMP threads: 0.051595 seconds
+Time taken for 2 MPI processes and 2 OpenMP threads: 0.051606 seconds
+Time taken for 2 MPI processes and 2 OpenMP threads: 0.052047 seconds
+Time taken for 2 MPI processes and 2 OpenMP threads: 0.052049 seconds
+
+Time taken for 2 MPI processes and 4 OpenMP threads: 0.183520 seconds
+Time taken for 2 MPI processes and 4 OpenMP threads: 0.198519 seconds
+Time taken for 2 MPI processes and 4 OpenMP threads: 0.181819 seconds
+Time taken for 2 MPI processes and 4 OpenMP threads: 0.208818 seconds
+
+Time taken for 2 MPI processes and 6 OpenMP threads: 0.266066 seconds
+Time taken for 2 MPI processes and 6 OpenMP threads: 0.319065 seconds
+Time taken for 2 MPI processes and 6 OpenMP threads: 0.269624 seconds
+Time taken for 2 MPI processes and 6 OpenMP threads: 0.320625 seconds
+
+Time taken for 2 MPI processes and 8 OpenMP threads: 0.359282 seconds
+Time taken for 2 MPI processes and 8 OpenMP threads: 0.421286 seconds
+Time taken for 2 MPI processes and 8 OpenMP threads: 0.357527 seconds
+Time taken for 2 MPI processes and 8 OpenMP threads: 0.419528 seconds
+
+Time taken for 2 MPI processes and 10 OpenMP threads: 0.447849 seconds
+Time taken for 2 MPI processes and 10 OpenMP threads: 0.529844 seconds
+Time taken for 2 MPI processes and 10 OpenMP threads: 0.447849 seconds
+Time taken for 2 MPI processes and 10 OpenMP threads: 0.529844 seconds
+
+Time taken for 2 MPI processes and 12 OpenMP threads: 0.542194 seconds
+Time taken for 2 MPI processes and 12 OpenMP threads: 0.647193 seconds
+Time taken for 2 MPI processes and 12 OpenMP threads: 0.542194 seconds
+Time taken for 2 MPI processes and 12 OpenMP threads: 0.647193 seconds
+
+Time taken for 4 MPI processes and 2 OpenMP threads: 0.051913 seconds
+Time taken for 4 MPI processes and 2 OpenMP threads: 0.051912 seconds
+Time taken for 4 MPI processes and 2 OpenMP threads: 0.051919 seconds
+Time taken for 4 MPI processes and 2 OpenMP threads: 0.051920 seconds
+
+Time taken for 4 MPI processes and 4 OpenMP threads: 0.141874 seconds
+Time taken for 4 MPI processes and 4 OpenMP threads: 0.142055 seconds
+Time taken for 4 MPI processes and 4 OpenMP threads: 0.142231 seconds
+Time taken for 4 MPI processes and 4 OpenMP threads: 0.142239 seconds
+
+Time taken for 4 MPI processes and 6 OpenMP threads: 0.292608 seconds
+Time taken for 4 MPI processes and 6 OpenMP threads: 0.252957 seconds
+Time taken for 4 MPI processes and 6 OpenMP threads: 0.252963 seconds
+Time taken for 4 MPI processes and 6 OpenMP threads: 0.252962 seconds
+
+Time taken for 4 MPI processes and 8 OpenMP threads: 0.323627 seconds
+Time taken for 4 MPI processes and 8 OpenMP threads: 0.315793 seconds
+Time taken for 4 MPI processes and 8 OpenMP threads: 0.318980 seconds
+Time taken for 4 MPI processes and 8 OpenMP threads: 0.319020 seconds
+
+Time taken for 4 MPI processes and 10 OpenMP threads: 0.472693 seconds
+Time taken for 4 MPI processes and 10 OpenMP threads: 0.483887 seconds
+Time taken for 4 MPI processes and 10 OpenMP threads: 0.439067 seconds
+Time taken for 4 MPI processes and 10 OpenMP threads: 0.439065 seconds
+
+Time taken for 4 MPI processes and 12 OpenMP threads: 0.487122 seconds
+Time taken for 4 MPI processes and 12 OpenMP threads: 0.490655 seconds
+Time taken for 4 MPI processes and 12 OpenMP threads: 0.488981 seconds
+Time taken for 4 MPI processes and 12 OpenMP threads: 0.501490 seconds
+
+Time taken for 6 MPI processes and 2 OpenMP threads: 0.051779 seconds
+Time taken for 6 MPI processes and 2 OpenMP threads: 0.051800 seconds
+Time taken for 6 MPI processes and 2 OpenMP threads: 0.051780 seconds
+Time taken for 6 MPI processes and 2 OpenMP threads: 0.051784 seconds
+
+Time taken for 6 MPI processes and 4 OpenMP threads: 0.266802 seconds
+Time taken for 6 MPI processes and 4 OpenMP threads: 0.262678 seconds
+Time taken for 6 MPI processes and 4 OpenMP threads: 0.252962 seconds
+Time taken for 6 MPI processes and 4 OpenMP threads: 0.252960 seconds
+
+Time taken for 6 MPI processes and 6 OpenMP threads: 0.442924 seconds
+Time taken for 6 MPI processes and 6 OpenMP threads: 0.444720 seconds
+Time taken for 6 MPI processes and 6 OpenMP threads: 0.401013 seconds
+Time taken for 6 MPI processes and 6 OpenMP threads: 0.400997 seconds
+
+Time taken for 6 MPI processes and 8 OpenMP threads: 0.442017 seconds
+Time taken for 6 MPI processes and 8 OpenMP threads: 0.510469 seconds
+Time taken for 6 MPI processes and 8 OpenMP threads: 0.442018 seconds
+Time taken for 6 MPI processes and 8 OpenMP threads: 0.442031 seconds
+
+Time taken for 6 MPI processes and 10 OpenMP threads: 0.816418 seconds
+Time taken for 6 MPI processes and 10 OpenMP threads: 0.848047 seconds
+Time taken for 6 MPI processes and 10 OpenMP threads: 0.763031 seconds
+Time taken for 6 MPI processes and 10 OpenMP threads: 0.688363 seconds
+
+Time taken for 6 MPI processes and 12 OpenMP threads: 0.889796 seconds
+Time taken for 6 MPI processes and 12 OpenMP threads: 0.915118 seconds
+Time taken for 6 MPI processes and 12 OpenMP threads: 0.837878 seconds
+Time taken for 6 MPI processes and 12 OpenMP threads: 0.758210 seconds
+
+Time taken for 8 MPI processes and 2 OpenMP threads: 0.052173 seconds
+Time taken for 8 MPI processes and 2 OpenMP threads: 0.052179 seconds
+Time taken for 8 MPI processes and 2 OpenMP threads: 0.052181 seconds
+Time taken for 8 MPI processes and 2 OpenMP threads: 0.052180 seconds
+
+Time taken for 8 MPI processes and 4 OpenMP threads: 0.252637 seconds
+Time taken for 8 MPI processes and 4 OpenMP threads: 0.267142 seconds
+Time taken for 8 MPI processes and 4 OpenMP threads: 0.253000 seconds
+Time taken for 8 MPI processes and 4 OpenMP threads: 0.252651 seconds
+
+Time taken for 8 MPI processes and 6 OpenMP threads: 0.319111 seconds
+Time taken for 8 MPI processes and 6 OpenMP threads: 0.310608 seconds
+Time taken for 8 MPI processes and 6 OpenMP threads: 0.314136 seconds
+Time taken for 8 MPI processes and 6 OpenMP threads: 0.310606 seconds
+
+Time taken for 8 MPI processes and 8 OpenMP threads: 0.527045 seconds
+Time taken for 8 MPI processes and 8 OpenMP threads: 0.601670 seconds
+Time taken for 8 MPI processes and 8 OpenMP threads: 0.506764 seconds
+Time taken for 8 MPI processes and 8 OpenMP threads: 0.516763 seconds
+
+Time taken for 8 MPI processes and 10 OpenMP threads: 0.743591 seconds
+Time taken for 8 MPI processes and 10 OpenMP threads: 0.655449 seconds
+Time taken for 8 MPI processes and 10 OpenMP threads: 0.655461 seconds
+Time taken for 8 MPI processes and 10 OpenMP threads: 0.735950 seconds
+
+Time taken for 8 MPI processes and 12 OpenMP threads: 0.670339 seconds
+Time taken for 8 MPI processes and 12 OpenMP threads: 0.763318 seconds
+Time taken for 8 MPI processes and 12 OpenMP threads: 0.810784 seconds
+Time taken for 8 MPI processes and 12 OpenMP threads: 0.888458 seconds

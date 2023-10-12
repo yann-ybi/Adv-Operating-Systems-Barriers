@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <mpi.h>
 #include <omp.h>
+#include <sys/time.h>
 #include "gtmp.h"
 
 double get_time() {
@@ -13,13 +14,10 @@ double get_time() {
 int main(int argc, char** argv)
 {
     int num_processes, num_threads, num_rounds = 2;
-    int my_id;
+    // int my_id;
     double start_time, end_time;
 
     MPI_Init(&argc, &argv);
-    int world_size;
-    MPI_Comm_size(MPI_COMM_WORLD, &num_processes);
-    MPI_Comm_rank(MPI_COMM_WORLD, &my_id);
     
     if (argc < 3) {
         fprintf(stderr, "Usage: ./combined_harness [NUM_PROCS] [NUM_THREADS]\n");
@@ -33,11 +31,11 @@ int main(int argc, char** argv)
 
     omp_set_dynamic(0);
     omp_set_num_threads(num_threads);
-    start_time = get_time();
+    start_time = MPI_Wtime();
 
 #pragma omp parallel shared(num_processes, num_threads)
     {
-        int myNum = omp_get_thread_num();
+        // int myNum = omp_get_thread_num();
         for(int i = 0; i < num_rounds; i++){
             // printf("Process rank: %d, Thread: %d, at iteration %d\n", my_id, myNum, i);
             
@@ -46,7 +44,7 @@ int main(int argc, char** argv)
             // printf("Process rank: %d, Thread: %d, passed iteration %d\n", my_id, myNum, i);
         }
     }
-    end_time = get_time();
+    end_time = MPI_Wtime();
     printf("Time taken for %d MPI processes and %d OpenMP threads: %lf seconds\n", num_processes, num_threads, end_time - start_time);
 
     gtmp_finalize();

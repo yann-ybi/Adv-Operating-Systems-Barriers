@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #SBATCH -J cs6210-proj2-combinedhello
-#SBATCH -N 8 --ntasks-per-node=4
+#SBATCH -N 8 --ntasks-per-node=1
 #SBATCH --mem-per-cpu=1G
 #SBATCH -t 99
 #SBATCH -q coc-ice
