@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #SBATCH -J cs6210-proj2-combinedhello
-#SBATCH -N 2 --ntasks-per-node=8
+#SBATCH -N 4 --ntasks-per-node=8
 #SBATCH --mem-per-cpu=1G
 #SBATCH -t 99
 #SBATCH -q coc-ice
@@ -16,4 +16,4 @@ export OMP_NUM_THREADS=8
 
 mpicc -Wall -lm -fopenmp -lgomp harness.c gtm1.c -o combined
 
-srun combined 2 8
+srun combined 4 6

@@ -66,5 +66,3 @@ mpicc -Wall -lm -fopenmp -lgomp combined_hello.c -o combined_hello
 srun combined_hello
 ```
 
-
-

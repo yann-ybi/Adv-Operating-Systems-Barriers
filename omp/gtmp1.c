@@ -28,6 +28,36 @@
 // Time taken for 6 threads: 0.000077 seconds
 // Time taken for 8 threads: 0.000096 seconds
 
+// av time in micro 0.037050
+// av time in micro 0.037193
+// av time in micro 0.037098
+// av time in micro 0.037122
+// av time in micro 0.037074
+// av time in micro 0.037217
+// av time in micro 0.037146
+// av time in micro 0.037360
+
+// av time in micro 0.043893
+// av time in micro 0.043941
+// av time in micro 0.043869
+// av time in micro 0.044298
+// av time in micro 0.044155
+// av time in micro 0.044107
+
+
+// av time in micro 0.071478
+// av time in micro 0.071836
+// av time in micro 0.071263
+// av time in micro 0.071764
+// av time in micro 0.071478
+// av time in micro 0.071645
+// av time in micro 0.071144
+// av time in micro 0.071025
+// av time in micro 0.071692
+// av time in micro 0.071740
+// av time in micro 0.071406
+// av time in micro 0.071597
+
 // declare global variables
 static unsigned int counter;
 static unsigned int ready;
